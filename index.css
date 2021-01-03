@@ -1,4 +1,9 @@
 .col11{
-    background-color: rgba(24, 223, 24, 0.205);
+    background-color: green;
     
+}
+
+body{
+    background-color: grey;
+    height: 100%vh ;
 }
